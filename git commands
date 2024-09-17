@@ -10,3 +10,4 @@ git push origin/master
 
 git checkout -b branch01
 git add .
+git push --set-upstream origin branch01
