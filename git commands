@@ -3,3 +3,11 @@ git clone
 git add .
 git add filename1 filename2
 git commit -m "first commit"
+git status
+git push 
+
+git push origin/master
+
+git checkout -b branch01
+git add .
+git push --set-upstream origin branch01
